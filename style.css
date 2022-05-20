@@ -1,0 +1,24 @@
+body {
+	font-family: 'Fredoka', sans-serif;
+}
+section {
+	margin: 20px 10px;
+	padding: 10px;
+	border: 2px solid #607D8B;
+	border-radius: 12px;
+	display: flex;
+	flex-direction: column;
+}
+label {
+	padding: 10px 0px;
+}
+span {
+	font-family: monospace;
+	font-size: 1.4em;
+	font-weight: bold;
+	color: crimson;
+}
+button {
+	padding: 10px;
+	font-size: 30px;
+}
