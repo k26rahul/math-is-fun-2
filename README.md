@@ -1,2 +1,3 @@
 # test-codes
-Code sandbox for Preeti didi
+Repository for math-is-fun-2 website.
+Work for Preeti Didi 😃
